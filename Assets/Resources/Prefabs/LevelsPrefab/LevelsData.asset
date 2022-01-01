@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583056193c4da77428e61116898a5117, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  frame: {fileID: 7605171782866491563, guid: 5aa44fcf9b1f9da4aaa35e23b1fe2308, type: 3}
+  pinPoses:
+  - {fileID: 0}
+  ball: {fileID: 7265413988834782440, guid: 7557b830643a5a64392f0de1bc8b184d, type: 3}
+  basket: {fileID: 5339877800521839775, guid: 070956bce67249e4eb9c4ebc6f8443c8, type: 3}
+  ballPoses:
+  - {fileID: 0}
+  pin: {fileID: 9027575888833353821, guid: 53f71271e14a96b4aac6ca32fed89d84, type: 3}
+  ballCount: 55
